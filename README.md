@@ -194,12 +194,5 @@ Created by **AGESILAS3118**
 
 ````
 
-Après création du fichier :
-
-```bash
-git add README.md
-git commit -m "Add professional README"
-git push
-````
 
 
